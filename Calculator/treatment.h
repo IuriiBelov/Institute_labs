@@ -1,0 +1,1 @@
+void treatment(char const *str, char *strr, int *mistake);

@@ -1,0 +1,1 @@
+double calcExpression(char const *polishStr, int const l, int *mistake);

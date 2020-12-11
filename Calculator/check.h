@@ -1,0 +1,1 @@
+int check(char const *str, int const l, int *mistake);
