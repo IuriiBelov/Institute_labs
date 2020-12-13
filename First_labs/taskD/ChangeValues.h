@@ -1,0 +1,1 @@
+void changeValues(int *a, int *b);

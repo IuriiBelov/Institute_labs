@@ -1,0 +1,1 @@
+void sheikerSort(int *massiv, int size);
